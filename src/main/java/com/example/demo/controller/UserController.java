@@ -8,4 +8,5 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class UserController {
 	private String ssss = "111";
+	private String dddd = "111";
 }
