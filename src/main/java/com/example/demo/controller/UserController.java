@@ -10,4 +10,5 @@ public class UserController {
 	private String ssss = "111";
 	private String dddd = "111";
 	private String newbranch = "111";
+	private String testMergeError = "111";
 }
